@@ -1,2 +1,10 @@
-# 191410002
-Ridwan Kurniawardana 19.14.1.0002
+# 081410009
+** Ridwan Kurniawardana **
+: surel: iwanr1653 @gmail.com
+: telepon: +6287700116200
+  
+**Course List**  
+- Algoritma dan Pemrograman  
+- Struktur Data I  
+- Struktur Data II  
+- Sistem Basis Data Lanjut  
